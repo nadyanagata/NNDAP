@@ -2,7 +2,7 @@
 Please refer to this sheet for project description : https://tinyurl.com/5hy2rb5j
 
 # Directory
-### 1. Group Project Codes on Predicting and Profiling Customers Defaulting on Loan for a Loan Lending Company
+### 1. Group Project Codes on Predicting and Profiling Customers Defaulting on Loan 
 Members: Alvento, Ching Jia Shao, Nadya Nagata, Tay Le Xuan, Timothy, and Tiffany Emilia Wijaya.
 - Multiple Linear Regression.R
 - Classification Tree.R
